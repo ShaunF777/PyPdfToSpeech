@@ -3,6 +3,7 @@
 <div align="center">
   <h2>🔊 Transform your scanned PDFs into beautiful audio experiences! 🎵</h2>
   <p><em>Advanced OCR + Multi-voice TTS = Amazing audiobooks from your PDFs!</em></p>
+  <p>Please note: 🛠️This repo is still under construction🛠️</p>
 </div>
 
 ## 🚀 What This Project Does
